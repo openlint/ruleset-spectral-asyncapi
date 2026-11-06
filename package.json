@@ -1,5 +1,5 @@
 {
-  "name": "@openlint/openlint-ruleset-spectral-asyncapi",
+  "name": "@openlint/ruleset-spectral-asyncapi",
   "version": "0.1.0",
   "description": "OpenLint ruleset for AsyncAPI documents",
   "homepage": "https://github.com/openlint/ruleset-spectral-asyncapi",

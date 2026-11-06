@@ -7,7 +7,7 @@ consumers.
 Install the package and extend it directly:
 
 ```sh
-npm install --save-dev @openlint/openlint-ruleset-spectral-asyncapi
+npm install --save-dev @openlint/ruleset-spectral-asyncapi
 ```
 
 ```yaml
